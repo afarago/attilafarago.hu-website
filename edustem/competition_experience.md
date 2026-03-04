@@ -14,8 +14,9 @@ Meeting and working with awesome people all over the world as a coach, volunteer
 
 | Year | Type | Activity |
 | - | - | - |
-| 2014-2025 | coach | Team Coach @ private team [TövisCsapat](http://toviscsapat.hu)<br/>*<small>World Festival 2019 · Detroit Champion finalist trophy</small>*<br/>*<small>World Festival 2017 · St.Louis Mechanical Robot Design runner up trophy</small>* |
-| 2023-2025 | WRO   | Member of ECE Head Judge Network, Edutus University <small>(WRO, EduCup)<small> |
+| 2014-2026 | coach | Team Coach @ private team [TövisCsapat](http://toviscsapat.hu)<br/>*<small>World Festival 2019 · Detroit Champion finalist trophy</small>*<br/>*<small>World Festival 2017 · St.Louis Mechanical Robot Design runner up trophy</small>* |
+| 2024-2026 | co-coach | Co-Team Coach @ community team Jász-Stones<br/><small>Jászberény, national 3rd place 2025, national 3rd place 2026 </small> 
+| 2023-2026 | WRO   | Member of ECE Head Judge Network, Edutus University <small>(WRO, EduCup)<small> |
 | ___   | ___ | ___ | 
 | 2025  | WRO     | Head Judge Category Robomission @ WRO National Hungary, Győr <br> [junior surprise rule](assets/robotics/wro-2025-rm-junior-meglepetes_szabaly.pdf), [junior extra challenge](assets/robotics/wro-2025-rm-junior-extra_szabaly.pdf) |
 |       | WRO     | Head Judge Kids @ WRO National Serbia, Zenta | 

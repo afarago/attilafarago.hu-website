@@ -7,10 +7,9 @@ repository: afarago/attilafarago.hu
 
 # Build settings
 markdown: kramdown
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
   - jekyll-font-awesome-sass
   # - jekyll-embed-video
   # - jekyll-gallery-generator
